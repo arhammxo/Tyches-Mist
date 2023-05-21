@@ -32,7 +32,7 @@ For generating the captions, we make use of Long Short-Term Memory (LSTM) networ
 
 <h2 id="dataset"> Dataset </h2>
 <p align="justify">
-This project uses the <a href="https://www.ijcai.org/Proceedings/15/Papers/593.pdf">Flickr 8K</a> dataset for training the model. This can be downloaded from <a href="https://www.kaggle.com/shadabhussain/flickr8k?select=model_weights.h5"> here</a>. It contains 8000 images, most of them featuring people and animals in a state of action. Each image is provided with five different captions describing the entities and events depicted in the image. Different captions of the same image tend to focus on different aspects of the scene, or use different linguistic constructions. This ensures that there is enough linguistic variety in the description of the images.
+This project uses the <a href="https://www.ijcai.org/Proceedings/15/Papers/593.pdf">Flickr 8K</a> dataset for training the model. This can be downloaded from <a href="https://www.kaggle.com/shadabhussain/flickr8k?select=model_weights.h5"> here</a>. It contains 8000 images, most of them featuring people and animals in a state of action. Each image is provided with five different captions describing the entities and events depicted in the image. Different captions of the same image tend to focus on different aspects of the scene, or use different linguistic constructions. This ensures that there is enough linguistic variety in the description of the images. The "data" folder with the Images as well as the Captions can be found <a href="https://drive.google.com/drive/folders/1bWwvzUAY75RH9VKAPC5vP4LWZL6iMNDD?usp=sharing"> here </a> 
 <br>
 Some sample examples of images from the dataset, and their captions are given below-
 </p>
