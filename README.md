@@ -56,7 +56,6 @@ ResNet50 which is used in this project is a smaller version of the original ResN
 		<img src="model_plot.png"
 			 alt="Model Plot"
 			 width=700>
-		<figcaption> A plot of the architecture </figcaption>
 	</figure>
 </div>
 <p><br><br></p>
